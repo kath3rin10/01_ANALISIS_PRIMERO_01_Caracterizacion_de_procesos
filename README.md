@@ -1,2 +1,2 @@
 # 01_ANALISIS_PRIMERO_01_Caracterizacion_de_procesos
-01_ANALISIS_PRIMERO_01_Caracterizacion_de_procesos
+Guia_De_Refuerzo_De_Caracterizacion_De_Procesos
